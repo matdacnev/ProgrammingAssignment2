@@ -1,6 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+# makeCacheMatrix: creates a matrix object
+# cacheSolve: compute the inv of a matrix or return the cached valued if it exists
+
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
